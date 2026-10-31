@@ -1,0 +1,44 @@
+keyword_a,keyword_b,cooccurrences
+computer vision,convolutional neural networks,8
+computer vision,fruits,14
+computer vision,machine learning,11
+computer vision,semantic segmentation,4
+computer vision,yield estimation,12
+convolutional neural networks,fruits,15
+convolutional neural networks,machine learning,5
+convolutional neural networks,semantic segmentation,4
+convolutional neural networks,yield estimation,6
+deep learning,computer vision,35
+deep learning,convolutional neural networks,21
+deep learning,fruits,27
+deep learning,machine learning,11
+deep learning,object detection,33
+deep learning,precision agriculture,26
+deep learning,precision viticulture,18
+deep learning,semantic segmentation,12
+deep learning,yield estimation,21
+machine learning,fruits,8
+machine learning,semantic segmentation,2
+machine learning,yield estimation,6
+object detection,computer vision,16
+object detection,convolutional neural networks,5
+object detection,fruits,17
+object detection,precision agriculture,13
+object detection,precision viticulture,9
+object detection,yield estimation,7
+precision agriculture,computer vision,9
+precision agriculture,convolutional neural networks,5
+precision agriculture,fruits,14
+precision agriculture,machine learning,13
+precision agriculture,precision viticulture,4
+precision agriculture,semantic segmentation,8
+precision agriculture,yield estimation,7
+precision viticulture,computer vision,7
+precision viticulture,convolutional neural networks,2
+precision viticulture,fruits,2
+precision viticulture,machine learning,4
+precision viticulture,semantic segmentation,3
+precision viticulture,yield estimation,16
+semantic segmentation,fruits,10
+yield estimation,fruits,17
+yield estimation,semantic segmentation,7

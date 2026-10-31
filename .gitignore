@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Scopus exports are not redistributed
+data/scopus*.csv
