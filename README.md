@@ -1,5 +1,7 @@
 # Viticulture Bibliometrics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23849698.svg)](https://doi.org/10.5281/zenodo.23849698)
+
 Bibliometric analysis of the literature on computer vision and deep learning
 applied to viticulture, based on a Scopus export. The code produces the number
 of documents per year and type, the number of documents in each thematic axis
@@ -87,6 +89,19 @@ study.
 ## License
 
 The code is released under the MIT License.
+
+## Citation
+
+```bibtex
+@software{leal_2026_23849698,
+  author    = {Leal, Hugo},
+  title     = {Viticulture Bibliometrics: Thematic Axes and Keyword Co-occurrence of the Scopus Literature on Computer Vision in Viticulture},
+  year      = 2026,
+  publisher = {Zenodo},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.23849698}
+}
+```
 
 ## Related repositories
 
